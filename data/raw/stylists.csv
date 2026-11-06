@@ -1,0 +1,121 @@
+stylist_id,name,seniority,base_rating
+STY_001,Stylist 1,Junior,4.87
+STY_002,Stylist 2,Senior,4.62
+STY_003,Stylist 3,Junior,4.31
+STY_004,Stylist 4,Junior,4.81
+STY_005,Stylist 5,Senior,4.7
+STY_006,Stylist 6,Junior,4.88
+STY_007,Stylist 7,Senior,4.35
+STY_008,Stylist 8,Junior,4.33
+STY_009,Stylist 9,Junior,4.57
+STY_010,Stylist 10,Junior,4.4
+STY_011,Stylist 11,Senior,4.3
+STY_012,Stylist 12,Junior,4.46
+STY_013,Stylist 13,Senior,4.75
+STY_014,Stylist 14,Junior,4.56
+STY_015,Stylist 15,Senior,4.23
+STY_016,Stylist 16,Senior,4.32
+STY_017,Stylist 17,Junior,4.86
+STY_018,Stylist 18,Master Stylist,4.77
+STY_019,Stylist 19,Junior,4.27
+STY_020,Stylist 20,Senior,4.51
+STY_021,Stylist 21,Junior,4.55
+STY_022,Stylist 22,Junior,4.84
+STY_023,Stylist 23,Junior,4.66
+STY_024,Stylist 24,Junior,4.56
+STY_025,Stylist 25,Senior,4.33
+STY_026,Stylist 26,Master Stylist,4.74
+STY_027,Stylist 27,Master Stylist,4.83
+STY_028,Stylist 28,Senior,4.85
+STY_029,Stylist 29,Junior,4.34
+STY_030,Stylist 30,Junior,4.43
+STY_031,Stylist 31,Junior,4.39
+STY_032,Stylist 32,Senior,4.45
+STY_033,Stylist 33,Junior,4.58
+STY_034,Stylist 34,Junior,4.76
+STY_035,Stylist 35,Junior,4.89
+STY_036,Stylist 36,Senior,4.34
+STY_037,Stylist 37,Junior,4.77
+STY_038,Stylist 38,Senior,4.71
+STY_039,Stylist 39,Senior,4.25
+STY_040,Stylist 40,Junior,4.28
+STY_041,Stylist 41,Master Stylist,4.64
+STY_042,Stylist 42,Junior,4.24
+STY_043,Stylist 43,Junior,4.43
+STY_044,Stylist 44,Senior,4.65
+STY_045,Stylist 45,Master Stylist,4.53
+STY_046,Stylist 46,Junior,4.7
+STY_047,Stylist 47,Senior,4.59
+STY_048,Stylist 48,Senior,4.55
+STY_049,Stylist 49,Senior,4.5
+STY_050,Stylist 50,Junior,4.28
+STY_051,Stylist 51,Junior,4.65
+STY_052,Stylist 52,Junior,4.56
+STY_053,Stylist 53,Master Stylist,4.37
+STY_054,Stylist 54,Junior,4.73
+STY_055,Stylist 55,Junior,4.25
+STY_056,Stylist 56,Junior,4.31
+STY_057,Stylist 57,Master Stylist,4.77
+STY_058,Stylist 58,Senior,4.81
+STY_059,Stylist 59,Senior,4.33
+STY_060,Stylist 60,Master Stylist,4.58
+STY_061,Stylist 61,Senior,4.83
+STY_062,Stylist 62,Junior,4.28
+STY_063,Stylist 63,Junior,4.5
+STY_064,Stylist 64,Senior,4.8
+STY_065,Stylist 65,Junior,4.56
+STY_066,Stylist 66,Junior,4.36
+STY_067,Stylist 67,Junior,4.44
+STY_068,Stylist 68,Master Stylist,4.43
+STY_069,Stylist 69,Senior,4.69
+STY_070,Stylist 70,Junior,4.88
+STY_071,Stylist 71,Master Stylist,4.38
+STY_072,Stylist 72,Senior,4.41
+STY_073,Stylist 73,Junior,4.23
+STY_074,Stylist 74,Senior,4.55
+STY_075,Stylist 75,Junior,4.4
+STY_076,Stylist 76,Master Stylist,4.37
+STY_077,Stylist 77,Junior,4.54
+STY_078,Stylist 78,Master Stylist,4.37
+STY_079,Stylist 79,Senior,4.73
+STY_080,Stylist 80,Junior,4.71
+STY_081,Stylist 81,Junior,4.64
+STY_082,Stylist 82,Senior,4.58
+STY_083,Stylist 83,Junior,4.78
+STY_084,Stylist 84,Junior,4.33
+STY_085,Stylist 85,Junior,4.61
+STY_086,Stylist 86,Senior,4.21
+STY_087,Stylist 87,Senior,4.36
+STY_088,Stylist 88,Senior,4.32
+STY_089,Stylist 89,Senior,4.47
+STY_090,Stylist 90,Master Stylist,4.3
+STY_091,Stylist 91,Junior,4.28
+STY_092,Stylist 92,Master Stylist,4.81
+STY_093,Stylist 93,Junior,4.66
+STY_094,Stylist 94,Senior,4.59
+STY_095,Stylist 95,Senior,4.37
+STY_096,Stylist 96,Junior,4.83
+STY_097,Stylist 97,Master Stylist,4.64
+STY_098,Stylist 98,Junior,4.44
+STY_099,Stylist 99,Senior,4.83
+STY_100,Stylist 100,Master Stylist,4.75
+STY_101,Stylist 101,Senior,4.26
+STY_102,Stylist 102,Junior,4.83
+STY_103,Stylist 103,Senior,4.21
+STY_104,Stylist 104,Junior,4.66
+STY_105,Stylist 105,Junior,4.31
+STY_106,Stylist 106,Senior,4.68
+STY_107,Stylist 107,Senior,4.36
+STY_108,Stylist 108,Senior,4.37
+STY_109,Stylist 109,Junior,4.72
+STY_110,Stylist 110,Senior,4.79
+STY_111,Stylist 111,Senior,4.6
+STY_112,Stylist 112,Junior,4.46
+STY_113,Stylist 113,Junior,4.37
+STY_114,Stylist 114,Master Stylist,4.48
+STY_115,Stylist 115,Master Stylist,4.64
+STY_116,Stylist 116,Senior,4.55
+STY_117,Stylist 117,Senior,4.54
+STY_118,Stylist 118,Junior,4.71
+STY_119,Stylist 119,Junior,4.22
+STY_120,Stylist 120,Senior,4.32

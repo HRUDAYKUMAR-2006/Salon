@@ -1,0 +1,23 @@
+id,name,city,cluster,tier,region_type
+OUT_01,Brookefields Mall,Coimbatore,Prime Mall,A,Treated_Coimbatore
+OUT_02,Prozone Mall,Coimbatore,Prime Mall,A,Treated_Coimbatore
+OUT_03,Race Course Road,Coimbatore,Prime Mall,A,Treated_Coimbatore
+OUT_04,RS Puram North,Coimbatore,Prime Mall,A,Treated_Coimbatore
+OUT_05,RS Puram - DB Road,Coimbatore,High Street,A,Treated_Coimbatore
+OUT_06,Gandhipuram - Cross Cut,Coimbatore,High Street,B,Treated_Coimbatore
+OUT_07,Gandhipuram Central,Coimbatore,High Street,B,Treated_Coimbatore
+OUT_08,Saibaba Colony,Coimbatore,High Street,B,Treated_Coimbatore
+OUT_09,Peelamedu - Avinashi Rd,Coimbatore,High Street,B,Treated_Coimbatore
+OUT_10,Ramanathapuram,Coimbatore,High Street,B,Treated_Coimbatore
+OUT_11,Singanallur,Coimbatore,High Street,C,Treated_Coimbatore
+OUT_12,Ganapathy,Coimbatore,High Street,C,Treated_Coimbatore
+OUT_13,Saravanampatti IT Park,Coimbatore,Suburban,B,Treated_Coimbatore
+OUT_14,Vadavalli,Coimbatore,Suburban,C,Treated_Coimbatore
+OUT_15,Thudiyalur,Coimbatore,Suburban,C,Treated_Coimbatore
+OUT_16,Kuniyamuthur,Coimbatore,Suburban,C,Treated_Coimbatore
+OUT_17,Kovaipudur,Coimbatore,Suburban,C,Treated_Coimbatore
+OUT_18,Sulur,Coimbatore,Suburban,C,Treated_Coimbatore
+OUT_19,Tiruppur - Town Hall,Tiruppur,High Street,B,Control_WesternTN
+OUT_20,Tiruppur - Avinashi Rd,Tiruppur,High Street,B,Control_WesternTN
+OUT_21,Erode - Brough Road,Erode,High Street,B,Control_WesternTN
+OUT_22,Erode - Perundurai Rd,Erode,Suburban,C,Control_WesternTN

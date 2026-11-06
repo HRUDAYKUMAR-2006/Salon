@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large synthetic datasets (reproducible via pipeline/01_generate_salon_dataset.py)
+data/raw/appointments_raw.csv
+data/processed/clean_master_appointments.csv
+data/processed/did_quasi_experiment.csv
+data/processed/ab_experiment_clean.csv
+
+# Keep sample datasets and metadata
+!data/raw/outlets_metadata.csv
+!data/raw/stylists.csv
+!data/processed/metrics_summary.json
+!web/assets/clean_sample_1000.csv
+!web/assets/metrics_summary.json
+
+# Environment and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
